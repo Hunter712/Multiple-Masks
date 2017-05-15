@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FewMaskSample</string>
+
+    <string name="mask">######</string>
+    <string name="mask_for_6">###,###</string>
+    <string name="mask_for_7">##,##,###</string>
+    <string name="mask_for_8">##,###,###</string>
+    <string name="mask_for_9">###,##,####</string>
+    <string name="mask_for_10">###,###,####</string>
+    <string name="mask_for_11">###,####,####</string>
+    <string name="mask_for_12">####,####,####</string>
+    <string name="mask_for_13">###,###,###,####</string>
+    <string name="mask_for_14">###,###,####,#####</string>
+    <string name="mask_for_15">###,####,####,####</string>
+</resources>
